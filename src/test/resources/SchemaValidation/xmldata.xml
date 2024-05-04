@@ -1,0 +1,18 @@
+<?xml version = "1.0"?>
+<Mail>
+        <email Subject="Codoid Client Meeting Remainder">
+    <from>Priya</from>
+    <empid>COD11</empid>
+    <Designation>Software Tester</Designation>
+    <to>Karthick</to>
+    <body>We have meeting at tomorrow 8 AM. Please be available
+    </body>
+        </email>
+    <email Subject="Reg:Codoid Client Meeting Remainder ">
+        <from>Kartick</from>
+        <empid>COD123</empid>
+        <Designation>Juniour Software Tester</Designation>
+        <to>Priya</to>
+        <body>Thanks for reminding me about the meeting. Will join on time</body>
+    </email>
+</Mail>
